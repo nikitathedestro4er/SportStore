@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6b4b7846_002Df8b4_002D478a_002D8484_002De3353d537262/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Can_Paginate" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::237D3D13-1ED3-4547-8A14-6CE48EF83632::net5.0::SportStore.Tests.ProductControllerTests.Can_Paginate&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::237D3D13-1ED3-4547-8A14-6CE48EF83632::net5.0::SportStore.Tests.ProductControllerTests.Can_Send_Pagination_View_Model&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::237D3D13-1ED3-4547-8A14-6CE48EF83632::net5.0::SportStore.Tests.ProductControllerTests.Can_Filter_Products&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::237D3D13-1ED3-4547-8A14-6CE48EF83632::net5.0::SportStore.Tests.ProductControllerTests.Indicates_Selected_category&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::237D3D13-1ED3-4547-8A14-6CE48EF83632::net5.0::SportStore.Tests.ProductControllerTests.Indicates_Selected_Category&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::237D3D13-1ED3-4547-8A14-6CE48EF83632::net5.0::SportStore.Tests.ProductControllerTests.Generate_Category_Specific_Product_Count&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::237D3D13-1ED3-4547-8A14-6CE48EF83632::net5.0::SportStore.Tests.CartTests.Can_Add_New_Lines&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::237D3D13-1ED3-4547-8A14-6CE48EF83632::net5.0::SportStore.Tests.CartTests.Can_Add_Quantity_For_Existing_Lines&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::237D3D13-1ED3-4547-8A14-6CE48EF83632::net5.0::SportStore.Tests.CartTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::237D3D13-1ED3-4547-8A14-6CE48EF83632::net5.0::SportStore.Tests.OrderControllerTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::237D3D13-1ED3-4547-8A14-6CE48EF83632::net5.0::SportStore.Tests.AdminControllerTests.Index_Contains_All_Products&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::237D3D13-1ED3-4547-8A14-6CE48EF83632::net5.0::SportStore.Tests.AdminControllerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
